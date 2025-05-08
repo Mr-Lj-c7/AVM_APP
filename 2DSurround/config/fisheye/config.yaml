@@ -1,0 +1,33 @@
+# ------ avm config -----
+# # docker config path
+# # car model 
+# car_model_path: "./data/images/fisheye/car.png"
+
+# # video
+# front_video_path: "./data/videos/front0810_1280.avi"
+# back_video_path: "./data/videos/back0810_1280.avi"
+# left_video_path: "./data/videos/left0810_1280.avi"
+# right_video_path: "./data/videos/right0810_1280.avi"
+
+# # stitch out
+# result_out_path: "./data/videos/stitched_output.avi"
+# stitched_out_path: "./data/images/fisheye/stitch_result_0.png"
+# white_balance_stitched_out_path: "./data/images/fisheye/frame_white_result_0.png"
+
+
+
+# local config path
+# car model 
+car_model_path: "../data/images/fisheye/car.png"
+
+# video
+front_video_path: "../data/videos/front0810_1280.avi"
+back_video_path: "../data/videos/back0810_1280.avi"
+left_video_path: "../data/videos/left0810_1280.avi"
+right_video_path: "../data/videos/right0810_1280.avi"
+
+# stitch out
+result_out_path: "../data/videos/stitched_output.avi"
+stitched_out_path: "../data/images/fisheye/stitch_result_0.png"
+white_balance_stitched_out_path: "../data/images/fisheye/frame_white_result_0.png"
+
